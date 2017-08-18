@@ -1,0 +1,11 @@
+body { -webkit-print-color-adjust: exact; page-break-inside: avoid; }
+.page-break { page-break-after: always; }
+.logo { display: block; margin: 0 auto; }
+.title { text-align: center; }
+.closing { font-style: oblique; font-size: 1.7em; text-align: left;}
+#food-list { padding-bottom: 40px; margin: 0 auto;}
+#food-list-graphic { border: 1px solid black; width: 550px; }
+#food-list-graphic th { text-align: center; }
+#food-list-graphic td { padding: 5px; border: 1px solid black; font-weight: bold; }
+#food-list-graphic td.avoid {-webkit-print-color-adjust: exact; background-color:red; text-align:center; }
+#food-list-graphic td.enjoy {-webkit-print-color-adjust: exact; background-color:green; text-align:center; }
