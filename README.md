@@ -5,4 +5,4 @@ This program is estimated to save the user an average of 3+ hours of work each w
 
 Completed autumn 2015 in collaboration with Renee Hartman.
 
-Theme used is devoops.
+Devoops theme is not our work - see the license - do not visit the web address, however, as it seems to have been overtaken.
